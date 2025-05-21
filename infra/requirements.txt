@@ -1,0 +1,9 @@
+azure-ai-evaluation[redteam];
+ipykernel;
+python-dotenv;
+azure-ai-projects;
+azure-identity;
+openai == 1.77.0;
+marshmallow==3.23.2;
+pyrit;
+playwright;
