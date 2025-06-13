@@ -58,7 +58,7 @@ async def main():
     
     # Initialize the RedTeamPlugin with the target function
     red_team_plugin = RedTeamPlugin(
-        AZURE_PJ_PROJECT_ENDPOINT=ai_project_endpoint,
+        azure_pj_project_endpoint=ai_project_endpoint,
         target_func=call_ollama
     )
 

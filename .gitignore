@@ -3,3 +3,4 @@ mio_credentials.env
 **/.scan*
 redteam.log
 01 - Red teaming with Foundry SDK/Scan results/* 
+04 - Red Teaming Agent Semantic Kernel plugin/prompts_SK_RedTAgent.txt
